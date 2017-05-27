@@ -18,6 +18,20 @@ void Menu::menuPrincipal()
     Cajero miCajero(777,280000,200000);// clave correcta, saldo, limite
     miCajero.verificaPin();
 
+      ifstream myFile2("myFile.bin",ios::binary);
+      if (myFile2.is_open())
+      {
+        myFile2.seekg(0);
+        myFile2.read((char *)&miCajero, sizeof (Cajero));
+        myFile2.close();
+      }
+      else
+        cout<<"No se pudo abrir el archivo";
+
+
+
+
+
     if (miCajero.getVerificador()==true)
     {
         int opc=-1;
@@ -100,9 +114,20 @@ void Menu::menuPrincipal()
                     default: cout << "\rOpcion invalida, por favor ingrese una de las opciones disponibles"; // doy este mensaje
                             Sleep(1500);
                             break;
+
+
             }
         }
     }
+     ofstream myFile("myFile.bin", ios::binary);
+    if (myFile.is_open())
+    {
+        myFile.write((char *)&miCajero, sizeof (Cajero));
+        myFile.close();
+    }
+
+    else
+        cout<<"No se pudo abrir el archivo";
 }
 
 

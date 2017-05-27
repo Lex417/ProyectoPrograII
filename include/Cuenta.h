@@ -6,6 +6,7 @@
 #include <iostream>
 #include <sstream>
 #include <stdlib.h>
+#include <fstream>
 using namespace std;
     /* El programa cumple con segregación de interfaz, cada módulo se utliza de tal forma que sólo se usan
         los métodos que son propiamente necesarios por el programa, esto con el proposito de mantener el princpio
