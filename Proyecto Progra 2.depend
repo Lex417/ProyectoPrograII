@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1490563281 source:c:\users\enzo darío\desktop\proyecto progra 2\main.cpp
+	"Cliente.h"
+	"Cajero.h"
+	<stdlib.h>
+
+1490552529 source:c:\users\enzo darío\desktop\proyecto progra 2\src\cliente.cpp
+	"Cliente.h"
+
+1490552528 c:\users\enzo darío\desktop\proyecto progra 2\include\cliente.h
+	"Cuenta_Ahorros.h"
+
+1490552029 c:\users\enzo darío\desktop\proyecto progra 2\include\cuenta_ahorros.h
+	"Cuenta.h"
+
+1490558281 c:\users\enzo darío\desktop\proyecto progra 2\include\cuenta.h
+	<iostream>
+	<sstream>
+
+1490551247 source:c:\users\enzo darío\desktop\proyecto progra 2\src\cuenta.cpp
+	"Cuenta.h"
+
+1490551247 source:c:\users\enzo darío\desktop\proyecto progra 2\src\cuenta_ahorros.cpp
+	"Cuenta_Ahorros.h"
+
+1490562784 source:c:\users\enzo darío\desktop\proyecto progra 2\src\cajero.cpp
+	"Cajero.h"
+
+1490563266 c:\users\enzo darío\desktop\proyecto progra 2\include\cajero.h
+	"Cliente.h"
+
+1490562322 source:c:\users\enzo darío\desktop\proyecto progra 2\src\menu.cpp
+	"Menu.h"
+
+1490562245 c:\users\enzo darío\desktop\proyecto progra 2\include\menu.h
+	"Cajero.h"
+	<stdlib.h>
+
+1490552530 source:c:\users\leonardo hidalgo\desktop\proyecto progra 2\src\cliente.cpp
+	"Cliente.h"
+
+1490552530 c:\users\leonardo hidalgo\desktop\proyecto progra 2\include\cliente.h
+	"Cuenta_Ahorros.h"
+
+1490996055 c:\users\leonardo hidalgo\desktop\proyecto progra 2\include\cuenta_ahorros.h
+	"Cuenta.h"
+
+1490996155 c:\users\leonardo hidalgo\desktop\proyecto progra 2\include\cuenta.h
+	<iostream>
+	<sstream>
+
+1490997154 source:c:\users\leonardo hidalgo\desktop\proyecto progra 2\src\cuenta.cpp
+	"Cuenta.h"
+
+1490996330 source:c:\users\leonardo hidalgo\desktop\proyecto progra 2\src\cuenta_ahorros.cpp
+	"Cuenta_Ahorros.h"
+
+1490999250 source:c:\users\leonardo hidalgo\desktop\proyecto progra 2\src\menu.cpp
+	"Menu.h"
+
+1490992895 c:\users\leonardo hidalgo\desktop\proyecto progra 2\include\menu.h
+	"Cajero.h"
+	<stdlib.h>
+
+1490998369 c:\users\leonardo hidalgo\desktop\proyecto progra 2\include\cajero.h
+	"Cliente.h"
+	<sstream>
+
+1490997155 source:c:\users\leonardo hidalgo\desktop\proyecto progra 2\main.cpp
+	"Cliente.h"
+	"Cajero.h"
+	"Menu.h"
+	<stdlib.h>
+
+1490999040 source:c:\users\leonardo hidalgo\desktop\proyecto progra 2\src\cajero.cpp
+	"Cajero.h"
+
+1491423754 source:e:\proyecto progra 2\main.cpp
+	"Menu.h"
+
+1491185020 e:\proyecto progra 2\include\cliente.h
+	"Cuenta_Ahorros.h"
+
+1491425252 e:\proyecto progra 2\include\cuenta_ahorros.h
+	"Cuenta.h"
+
+1491425252 e:\proyecto progra 2\include\cuenta.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+
+1491425264 e:\proyecto progra 2\include\cajero.h
+	"Cliente.h"
+	<sstream>
+
+1491185020 e:\proyecto progra 2\include\menu.h
+	"Cajero.h"
+
+1491425594 source:e:\proyecto progra 2\src\cajero.cpp
+	"Cajero.h"
+
+1491185020 source:e:\proyecto progra 2\src\cliente.cpp
+	"Cliente.h"
+
+1491185020 source:e:\proyecto progra 2\src\cuenta.cpp
+	"Cuenta.h"
+
+1491425252 source:e:\proyecto progra 2\src\cuenta_ahorros.cpp
+	"Cuenta_Ahorros.h"
+
+1491423100 source:e:\proyecto progra 2\src\menu.cpp
+	"Menu.h"
+
+1491185020 source:c:\users\leonardo hidalgo\downloads\proyecto progra 2\src\cliente.cpp
+	"Cliente.h"
+
+1491185020 c:\users\leonardo hidalgo\downloads\proyecto progra 2\include\cliente.h
+	"Cuenta_Ahorros.h"
+
+1491432520 c:\users\leonardo hidalgo\downloads\proyecto progra 2\include\cuenta_ahorros.h
+	"Cuenta.h"
+
+1491432520 c:\users\leonardo hidalgo\downloads\proyecto progra 2\include\cuenta.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+
+1491185020 source:c:\users\leonardo hidalgo\downloads\proyecto progra 2\src\cuenta.cpp
+	"Cuenta.h"
+
+1491425252 source:c:\users\leonardo hidalgo\downloads\proyecto progra 2\src\cuenta_ahorros.cpp
+	"Cuenta_Ahorros.h"
+
+1491433209 source:c:\users\leonardo hidalgo\downloads\proyecto progra 2\src\menu.cpp
+	"Menu.h"
+
+1491432520 c:\users\leonardo hidalgo\downloads\proyecto progra 2\include\menu.h
+	"Cajero.h"
+
+1491432687 c:\users\leonardo hidalgo\downloads\proyecto progra 2\include\cajero.h
+	"Cliente.h"
+	<sstream>
+
+1491426922 source:c:\users\leonardo hidalgo\downloads\proyecto progra 2\main.cpp
+	"Menu.h"
+
+1491433146 source:c:\users\leonardo hidalgo\downloads\proyecto progra 2\src\cajero.cpp
+	"Cajero.h"
+
+1491426922 source:c:\users\leonardo hidalgo\desktop\clases\i ciclo 2017\progra ii\proyecto cajeroautomático\main.cpp
+	"Menu.h"
+
+1491432520 c:\users\leonardo hidalgo\desktop\clases\i ciclo 2017\progra ii\proyecto cajeroautomático\include\menu.h
+	"Cajero.h"
+
+1495872268 c:\users\leonardo hidalgo\desktop\clases\i ciclo 2017\progra ii\proyecto cajeroautomático\include\cajero.h
+	"Cliente.h"
+	<sstream>
+	<windows.h>
+
+1495872278 c:\users\leonardo hidalgo\desktop\clases\i ciclo 2017\progra ii\proyecto cajeroautomático\include\cliente.h
+	"Cuenta_Ahorros.h"
+
+1495871362 c:\users\leonardo hidalgo\desktop\clases\i ciclo 2017\progra ii\proyecto cajeroautomático\include\cuenta_ahorros.h
+	"Cuenta.h"
+
+1495871362 c:\users\leonardo hidalgo\desktop\clases\i ciclo 2017\progra ii\proyecto cajeroautomático\include\cuenta.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+
+1495872414 source:c:\users\leonardo hidalgo\desktop\clases\i ciclo 2017\progra ii\proyecto cajeroautomático\src\cajero.cpp
+	"Cajero.h"
+
+1495872278 source:c:\users\leonardo hidalgo\desktop\clases\i ciclo 2017\progra ii\proyecto cajeroautomático\src\cliente.cpp
+	"Cliente.h"
+
+1495871362 source:c:\users\leonardo hidalgo\desktop\clases\i ciclo 2017\progra ii\proyecto cajeroautomático\src\cuenta.cpp
+	"Cuenta.h"
+
+1495871362 source:c:\users\leonardo hidalgo\desktop\clases\i ciclo 2017\progra ii\proyecto cajeroautomático\src\cuenta_ahorros.cpp
+	"Cuenta_Ahorros.h"
+
+1495870907 source:c:\users\leonardo hidalgo\desktop\clases\i ciclo 2017\progra ii\proyecto cajeroautomático\src\menu.cpp
+	"Menu.h"
+
